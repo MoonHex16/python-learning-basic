@@ -10,3 +10,5 @@ num_1 = int(input("give your first no. : "))
 num_2 = int(input("give your second no. : "))
 num = (num_1 + num_2)
 print(num)
+
+# new chnages
